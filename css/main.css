@@ -1,0 +1,226 @@
+    * {
+        padding: 0px;
+        margin: 0%;
+        font-family: 'Bebas Neue';
+    }
+    
+    .conteiner {
+        width: 1500px;
+        margin: 0 auto;
+    }
+    
+    .head_conteiner {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    body {
+        color: white;
+        background-color: #2e6f8d;
+    }
+    
+    h4 {
+        color: #9392ff;
+        text-shadow: 0 5px 5px rgba(134, 127, 127, 0.726);
+    }
+    
+    h3 {
+        color: rgb(85, 113, 136);
+        text-shadow: 0 5px 5px rgba(41, 41, 41, 0.616);
+    }
+    
+    h1 {
+        color: #537a9e;
+        font-size: 50px;
+        text-shadow: 0 5px 5px rgba(41, 41, 41, 0.575);
+    }
+    
+    .sabblok1 {
+        border-radius: 20px;
+        margin: 50px;
+        padding: 50px 0px;
+        img {
+            padding: 0px 50px;
+        }
+        width: 600px;
+        background-color: #9392ff;
+        samp {
+            font-size: 1.7rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+    
+    .mainblok {
+        background-image: url(./img/photoB.jpg);
+        background-size: cover;
+    }
+    
+    .sabblok2 {
+        border-radius: 20px;
+        margin: 50px;
+        padding: 50px 0px;
+        img {
+            padding: 0px 50px;
+        }
+        width: 600px;
+        background-color: #bd9308;
+        samp {
+            font-size: 1.7rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+    
+    .sabblok1 img {
+        width: 500px;
+    }
+    
+    .sabblok2 img {
+        width: 500px;
+    }
+    
+    .teru {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    ul {
+        list-style: none;
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    img.logo {
+        width: 70px;
+        height: 70px;
+        padding: 0px 10px;
+    }
+    
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
+        padding: 0px 10px;
+    }
+    
+    .btn1 {
+        color: #a79f9f;
+        background-color: #5c5959;
+    }
+    
+    .btn2 {
+        color: aliceblue;
+        background-color: #000000;
+    }
+    
+    .btn {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0px 10px;
+        width: 150px;
+        height: 40px;
+        border-radius: 15px;
+    }
+    
+    .header_list {
+        display: flex;
+        gap: 30px;
+    }
+    
+    a:hover {
+        opacity: 1;
+    }
+    
+    a {
+        font-size: 1.5rem;
+        text-decoration: none;
+        color: rgb(91, 161, 219);
+        opacity: 0.7;
+        transition: 0.2s;
+    }
+    
+    .welcome {
+        background-image: url(./img/photoW.jpg);
+        background-size: cover;
+        background-position: center;
+        margin-top: -100px;
+        padding: 200px 0;
+    }
+    
+    .nud {
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        font-size: 1.8rem;
+        padding: 20px 0px;
+        text-shadow: 0 5px 5px rgba(41, 41, 41, 0.5);
+    }
+    
+    .blok1 {
+        background-color: #c4ba85;
+    }
+    
+    .blok2 {
+        background-color: #c7ac55;
+    }
+    
+    .tets {
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        font-size: 1.6rem;
+    }
+    
+    .row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        text-shadow: 0 5px 5px rgba(41, 41, 41, 0.5);
+    }
+    
+    .bril {
+        width: 500px;
+        height: 500px;
+    }
+    
+    .besement {
+        background-color: #3a3b37;
+    }
+    
+    ul.ss li {
+        padding: 5px 0px;
+        font-size: 1.2rem;
+    }
+    
+    .cut {
+        a {
+            color: #fffefe91;
+        }
+        margin: 0px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 20px 80px;
+    }
+    
+    .pacifico-regular {
+        font-family: "Pacifico", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
+    
+    .sss a {
+        font-family: "Pacifico";
+    }
+    
+    .ss li {
+        color: #ffffff8c;
+        font-family: "Pacifico";
+    }
